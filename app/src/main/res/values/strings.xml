@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BottomSheetDialog</string>
+
+    <string name="menu_edit">Edit</string>
+    <string name="menu_delete">Delete</string>
+    <string name="menu_attach">Attach</string>
+</resources>
